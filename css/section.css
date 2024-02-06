@@ -12,7 +12,7 @@
 }
 
 .ContentVideos{
-    display: flex;
+    /* display: flex; */
     flex-direction: column;
     gap: 10px;
     align-items: center;
@@ -20,12 +20,12 @@
     text-align: center;
 }
 
-.ContentVideos > h1{
+.ContentVideos > h1,h2,h3,h4,h5,h6, p {
     margin: 0;
     padding: 0;
 }
 
-.ContentVideos > h2{
+/* .ContentVideos > h2{
     margin: 0;
     padding: 0;
 }
@@ -48,7 +48,7 @@
 .ContentVideos > p{
     margin: 0;
     padding: 0;
-}
+} */
 
 .centerButton{
     display: flex;
@@ -56,8 +56,6 @@
     align-items: center;
     width: 80px;
     height: 80px;
-    color: white;
-    /* background-color: #aaa8a8ab; */
     cursor: pointer;
 }
 
@@ -79,6 +77,6 @@
     width: 100%;
     justify-content: space-between;
     align-items: center;
-    background-color: tomato;
+    background-color: red;
     padding: 45px 4px 45px 4px;
 }

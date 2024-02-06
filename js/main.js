@@ -12,4 +12,5 @@ $(document).ready(() => {
             .catch(error => console.error('Erro ao obter dados:', error)));
     }
 
+    let num = 0;
 });
