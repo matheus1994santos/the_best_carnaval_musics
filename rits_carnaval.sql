@@ -154,3 +154,62 @@ COMMIT;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+
+
+update `link_musicas` set link = 'https://www.youtube.com/embed/6IUKG7fij9w?si=Owl6mZnZbtplmJZX' where id = 1;
+
+update `link_musicas` set link = 'https://www.youtube.com/embed/x0MY3j7p4uk?si=bF6bQUBd0P_3xNi0' where id = 2;
+
+update `link_musicas` set link = 'https://www.youtube.com/embed/cfN2lLqEZr4?si=FXZZMOQRYzJSy9kf' where id = 3;
+
+update `link_musicas` set link = 'https://youtu.be/VtKQ7IOKRs4?si=a1xepteTTZt9fc68' where id = 4;
+
+update `link_musicas` set link = 'https://youtu.be/XwpUjzbVCps?si=YpGdRzj-Zvngx-t7' where id = 5;
+
+update `link_musicas` set link = 'https://youtu.be/SDOinKccFmU?si=6xTYI41A-XClH8ad' where id = 6;
+
+update `link_musicas` set link = 'https://youtu.be/7eHr-y4TKEo?si=gk064rDzc0QiZSRA' where id = 7;
+
+update `link_musicas` set link = 'https://youtu.be/_AJKpCN5dCg?si=wYZxjfBgeMiPdYC9' where id = 8;
+
+update `link_musicas` set link = 'https://youtu.be/h2xU3E6kePw?si=hNUZBfagF643Ua2e' where id = 9;
+
+update `link_musicas` set link = 'https://youtu.be/xNo2kP7HJyw?si=1xwvs8lfO-WFW9ul' where id = 10;
+
+update `link_musicas` set link = 'https://youtu.be/8xS2mMeZg-g?si=LVFpzr8QwXjwiPEp' where id = 11;
+
+update `link_musicas` set link = 'https://youtu.be/4a_3PQfI9IU?si=qlp6uB6EIFKj-DkZ' where id = 12;
+
+update `link_musicas` set link = 'https://youtu.be/oBcxet7lFjI?si=Hdptnp1rZsZDdAnC' where id = 13;
+
+update `link_musicas` set link = 'https://youtu.be/xPBO-fzwIK0?si=n_scNvsk_tFPlbsZ' where id = 14;
+
+update `link_musicas` set link = 'https://youtu.be/Kk9POewA3dI?si=jexr7FAKf5pVttns' where id = 15;
+
+update `link_musicas` set link = 'https://youtu.be/lUQc6cBol28?si=HzvPfWzPCzj1-jx9' where id = 16;
+
+update `link_musicas` set link = 'https://youtu.be/X9P2d5lF2l4?si=waIVSpSHVgyX3ePW' where id = 17;
+
+update `link_musicas` set link = 'https://youtu.be/1C45fnnldfE?si=0M_VilWncaJFKB4T' where id = 18;
+
+update `link_musicas` set link = 'https://youtu.be/m_kVdLifNJM?si=od1oCLbAW5B7_FD8' where id = 19;
+
+update `link_musicas` set link = 'https://youtu.be/U10M6bxZjQw?si=GYGW4QmGDmwGjEEj' where id = 20;
+
+update `link_musicas` set link = 'https://youtu.be/AHVS5DW434g?si=Aq3w14fjJxd0mk1_' where id = 21;
+
+update `link_musicas` set link = 'https://youtu.be/Nk9tt6cchak?si=wSMdQCwrnGu8yFSD' where id = 22;
+
+update `link_musicas` set link = 'https://youtu.be/YzCoZGsod0c?si=Afy8w2PnWGjj7SoV' where id = 23;
+
+update `link_musicas` set link = 'https://youtu.be/GBteTh-ft38?si=FBPb1a86CC6NrjZ4' where id = 24;
+
+update `link_musicas` set link = 'https://youtu.be/EQuDD5JA_-8?si=J_sHIGAxVBAhVAle' where id = 25;
+
+update `link_musicas` set link = 'https://youtu.be/XzD3yaS9nRY?si=wsKWrWq4B7-YvVpa' where id = 26;
+
+update `link_musicas` set link = 'https://youtu.be/FcA_F77cgcw?si=PvNErgOflYR4kYWT' where id = 27;
+
+update `link_musicas` set link = 'https://youtu.be/J_jJhHhYW9w?si=59p7e-q0NBczX4TY' where id = 28;
+
+update `link_musicas` set link = 'https://youtu.be/0cnUcoXllMM?si=BmgFui9nBn8GwcQn' where id = 29;

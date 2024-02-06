@@ -19,6 +19,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Musicas do Carnaval da Bahia</title>
     <script src="./js/header.js"></script>
+    <script src="./js/section.js"></script>
     <script src="./js/jquery-3.7.1.js"></script>
     <script src="./js/main.js"></script>
     <script src="./js/materialize.js"></script>
@@ -26,6 +27,7 @@
     <link rel="stylesheet" href="./css/section.css">
     <link rel="stylesheet" href="./css/materialize.css">
     <link rel="stylesheet" href="./css/style.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
 <body>
     <?php
