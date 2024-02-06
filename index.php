@@ -23,12 +23,22 @@
     <script src="./js/main.js"></script>
     <script src="./js/materialize.js"></script>
     <link rel="stylesheet" href="./css/header.css">
+    <link rel="stylesheet" href="./css/section.css">
     <link rel="stylesheet" href="./css/materialize.css">
     <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
     <?php
         include('./php/Header/Header.php');
+    ?>
+    <?php
+        include('./php/Banner/Banner.php');
+    ?>
+    <?php
+        include('./php/Section/Section1.php');
+    ?>
+    <?php
+        include('./php/Footer/Footer.php');
     ?>
 </body>
 </html>

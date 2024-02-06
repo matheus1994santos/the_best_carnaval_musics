@@ -1,0 +1,9 @@
+.Content{
+    display: flex;
+    padding: 0 4%;
+    background-color: red;
+}
+
+.widthHigh{
+    width: 100%;
+}
